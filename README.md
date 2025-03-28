@@ -1,6 +1,6 @@
 ![Header](https://source.unsplash.com/1600x400/?technology,data)
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Sravanthi BN! 👋
 
 ### 🚀 Data Scientist | Python Enthusiast | SQL Expert | Web Developer
 
